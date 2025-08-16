@@ -11,7 +11,7 @@
 
 ## 🌐 Connect With Me
 
-[Connect on LinkedIn 🚀](https://www.linkedin.com/in/your-linkedin-username)
+[Connect on LinkedIn 🚀](www.linkedin.com/in/ehimenose-aigbe-9b0b03285)
 
 ---
 
