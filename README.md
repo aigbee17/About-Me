@@ -42,7 +42,7 @@
 
 - 🏆 Always eager to learn and explore new technologies!
 - 💡 Love solving problems and building cool stuff!
-- 🤖 Dreaming of making an impact in tech and innovation!
+- 🤖 Looking to make an impact in tech and innovation!
 - 🌈 Let's connect and create something awesome together!
 
 ---
