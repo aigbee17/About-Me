@@ -11,7 +11,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/ehimenose-aigbe-9b0b03285)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](in/ehimenose-aigbe-9b0b03285)
 
 ---
 
@@ -42,7 +42,7 @@
 
 - 🏆 Always eager to learn and explore new technologies!
 - 💡 Love solving problems and building cool stuff!
-- 🤖 Looking of making an impact in tech and innovation!
+- 🤖 Looking to make an impact in tech and innovation!
 - 🌈 Let's connect and create something awesome together!
 
 ---
