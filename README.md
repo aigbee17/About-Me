@@ -1,28 +1,29 @@
-👋✨ Hi, I am **Ehimenose Aigbe**! ✨👋
+# Ehimenose Aigbe
 
-🎓 **Second Year Computer Engineering Student**  
-💻 Passionate about all things Computer Engineering, especially:  
-🌟 **Software Development**  
-⚡ **Embedded Systems**
-
----
-
-🌐 **Connect With Me:**  
-[Connect with me on LinkedIn! 🌟](https://www.linkedin.com/in/your-linkedin-username)
+👋 Second Year Computer Engineering Student  
+💻 Interested in everything computer engineering—especially:  
+🌟 Software Development  
+⚡ Embedded Systems
 
 ---
 
-🚀 **Tech Stack**
+### 🌐 Connect With Me
 
-**Languages:** 🐍 Python · ☕ Java · 🦀 Rust · 💻 C  
-**Developer Tools:** 🗂️ Git · 📨 Postman  
-**Libraries & Frameworks:** 🗄️ SQL · 🗄️ SQLite · ⚡ FastAPI · 🐳 Docker
+🔗 [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
 
 ---
 
-🎨✨ **More About Me**
+### 🚀 Tech Stack
 
-🏆 Always eager to learn and explore new technologies!  
-💡 Love solving problems and building cool stuff!  
-🤖 Looking to make an impact in tech and innovation!  
+**Languages**: 🐍 Python | ☕ Java | 🦀 Rust | 💻 C  
+**Tools**: 🗂️ Git | 📨 Postman  
+**Frameworks/Libraries**: 🗄️ SQL | 🗄️ SQLite | ⚡ FastAPI | 🐳 Docker
+
+---
+
+#### 🎨 More About Me
+
+🏆 Always eager to learn and explore new technologies  
+💡 Love solving problems and building cool stuff  
+🤖 Looking to make an impact in tech and innovation  
 🌈 Let's connect and create something awesome together!
