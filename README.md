@@ -11,7 +11,7 @@
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=flat-square)](www.linkedin.com/in/ehimenose-aigbe-9b0b03285)
+[Connect on LinkedIn 🚀](https://www.linkedin.com/in/your-linkedin-username)
 
 ---
 
