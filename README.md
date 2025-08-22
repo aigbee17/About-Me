@@ -40,7 +40,7 @@
 
 ## 🎨✨ More About Me
 
-- 🏆 Always eager to learn and explore new technologies!
+- 🏆 Eager to learn and explore new technologies!
 - 💡 Love solving problems and building cool stuff!
 - 🤖 Looking to make an impact in tech and innovation!
 - 🌈 Let's connect and create something awesome together!
