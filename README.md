@@ -1,4 +1,4 @@
-# 👋✨ Hi, I am **Ehimenose Aigbe**! ✨👋
+# 👋✨ Hi, I am **Ehimenose A. Aigbe**! ✨👋
 
 ---
 
