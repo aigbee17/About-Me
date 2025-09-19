@@ -2,7 +2,7 @@
 
 ---
 
-🎓 **Second Year Computer Engineering Student**  
+🎓 **Second Year Computer Engineering Student @ The University of Ottawa**  
 💻 Passionate about all things Computer Engineering, especially:  
 - 🌟 **Software Development**  
 - ⚡ **Embedded Systems**
